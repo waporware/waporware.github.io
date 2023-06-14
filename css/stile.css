@@ -52,6 +52,7 @@ overflow-x:hidden;
         transform: translate(-120%,160%);
         height: 600px;
         z-index: 1;
+    
 }
 
 #umano
@@ -146,4 +147,9 @@ p{
 {
     padding-left: 30px;
     padding-right: 30px;
+}
+
+ul
+{
+    font-size:14px;
 }
